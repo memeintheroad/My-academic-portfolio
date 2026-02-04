@@ -5,7 +5,7 @@ A collection of professional projects developed during my **Cybersecurity** stud
 
 ### 1. Encryption & Decryption Tool using Python
 * **Summary:** A Python-based tool that uses the Fernet algorithm (AES) to secure data.
-* **Files:** [Research Paper](https://github.com/memeintheroad/My-academic-portfolio/blob/11e9d84da52e3b4fab2109fb0cdb7355fae2563a/Encryption%20and%20Decryption%20Tool%20Using%20Python%20(1).pdf) | [Presentation](https://github.com/memeintheroad/My-academic-portfolio/blob/11e9d84da52e3b4fab2109fb0cdb7355fae2563a/Encryption%20and%20Decryption%20Tool%20using%20Python%20presentation.pdf) [Python Script](./encryption_tool.py)
+* **Files:** [Research Paper](https://github.com/memeintheroad/My-academic-portfolio/blob/11e9d84da52e3b4fab2109fb0cdb7355fae2563a/Encryption%20and%20Decryption%20Tool%20Using%20Python%20(1).pdf) | [Presentation](https://github.com/memeintheroad/My-academic-portfolio/blob/11e9d84da52e3b4fab2109fb0cdb7355fae2563a/Encryption%20and%20Decryption%20Tool%20using%20Python%20presentation.pdf) | [Python Script](./encryption_tool.py)
 
 ### 2. Database Design: Online Shopping Platform (SHEIN Beauty)
 * **Summary:** Designed a relational database using Oracle 19c, including ERD design and SQL implementation.
