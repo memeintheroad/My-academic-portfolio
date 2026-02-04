@@ -23,7 +23,7 @@ A collection of professional projects developed during my **Cybersecurity** stud
     * Focused on reducing "False Alarms" in **SIEM systems** through actionable data..
 * **Files:** [Research Paper](https://github.com/memeintheroad/My-academic-portfolio/blob/11e9d84da52e3b4fab2109fb0cdb7355fae2563a/The%2BRole%2Bof%2BThreat%2BIntelligence%2Bin%2BModern%2BCybersecurity%2B1%20(1).pdf)
 
-### 4. Data Structures: Single Linked Lists Implementation**group project**
+### 4. Data Structures: Single Linked Lists Implementation **group project**
 * **Concept:** A technical implementation of fundamental data structures for efficient data management.
 * **Technical Details:** * Developed using **Python** to demonstrate pointer manipulation and memory management.
     * Implemented core operations: **Insertion, Deletion, and Traversal** of nodes.
