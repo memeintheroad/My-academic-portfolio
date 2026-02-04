@@ -17,7 +17,7 @@ A collection of professional projects developed during my **Cybersecurity** stud
     * Designed an **ER Diagram (ERD)** with 6 core entities (Users, Products, Orders, Categories, Subcategories, Reviews).
     * Implemented complex **SQL queries (DDL/DML)**, including table joins and subqueries to extract business insights (e.g., top-rated products).
 * **Skills:** SQL, Database Normalization, ERD Design, Oracle 19c.
-* **Files:** [Full Report](./_PDatabase_Design_for_Online_Shopping_Platform_(SHEIN_-_Beauty_Items)..pdf) | [Presentation](./Database_Design_for_Online_Shopping_Platform_(SHEIN_-_Beauty_Items)..pdf)
+* **Files:** [Full Report]([./_PDatabase_Design_for_Online_Shopping_Platform_(SHEIN_-_Beauty_Items)..pdf](https://github.com/memeintheroad/My-academic-portfolio/blob/89b0c809ac25cc7409af6253576a7507ddf5b645/_PDatabase%20Design%20for%20Online%20Shopping%20Platform%20(SHEIN%20-%20Beauty%20Items)..pdf)) | [Presentation](./Database_Design_for_Online_Shopping_Platform_(SHEIN_-_Beauty_Items)..pdf)
 
 ### 3. Cyber Threat Intelligence (CTI) in modern cybersecurity
 * **Concept:** Strategic research on transforming security from reactive to proactive using Threat Intelligence.
